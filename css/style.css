@@ -7,6 +7,12 @@ body {
 	text-align: center;
 }
 
+.title {
+	font-size: 30px;
+	text-shadow: 2px 2px green;
+	color: blue;
+}
+
 .sp img {
 	width: 100%;
 	height: auto;
@@ -29,6 +35,7 @@ div .sp {
 
 div .sp:hover {
     border: 1px solid #777;
+    box-shadow: 6px 6px 3px #888888;
 }
 
 div.desc {
